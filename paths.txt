@@ -1,0 +1,6 @@
+/autoload.php
+/core/scripts/drupal
+/.HTML
+/default/settings.php
+/settings.php
+/default.settings.php
